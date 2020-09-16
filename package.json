@@ -3,7 +3,7 @@
   "description": "Search any plant name",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://svilder.github.io/plantae/",
+  "homepage": "https://svilder.github.io/plantae/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
