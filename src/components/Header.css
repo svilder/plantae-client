@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 32px;
+}
+
+.app-title {
+  margin-right: 32px;
+  font-size: 64px;
+}
+
+.app-description {
+  margin-top: 28px;
+}
+
+.app-description p {
+  margin: 0;
+}
